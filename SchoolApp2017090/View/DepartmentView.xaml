@@ -1,0 +1,41 @@
+﻿<Controls:MetroWindow x:Class="DepartmentView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:SchoolApp2017090"
+        mc:Ignorable="d"
+        Title="DepartmentView" Height="425" Width="530">
+    <Grid Margin="0,0,2,0">
+        <Label Content="Department ID" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Budget" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label Content="StartData" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <Label Content="Administrator" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtDepartmentID" Text="{Binding DepartmentID}" HorizontalAlignment="Left" Height="23" Margin="327,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtName" Text="{Binding Name}" HorizontalAlignment="Left" Height="23" Margin="327,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtBudget" Text="{Binding Budget}" HorizontalAlignment="Left" Height="23" Margin="327,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <DatePicker x:Name="txtStartData" SelectedDate="{Binding StartDate}" HorizontalAlignment="Left" Margin="327,104,0,0" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtAdministrator" Text="{Binding Administrator}" HorizontalAlignment="Left" Height="23" Margin="327,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+
+        <StackPanel HorizontalAlignment="Left" Margin="10,176,0,53" Width="503">
+            <DataGrid ItemsSource="{Binding ListDepartment}" AutoGenerateColumns="false" SelectedItem="{Binding Element}" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible" Height="164">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="DepartmentID" Binding="{Binding DepartmentID}" Width="99"/>
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="100"/>
+                    <DataGridTextColumn Header="Budget" Binding="{Binding Budget}" Width="100"/>
+                    <DataGridTextColumn Header="StartDate" Binding="{Binding StartDate}" Width="100"/>
+                    <DataGridTextColumn Header="Administrator" Binding="{Binding Administrator}" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+        <Button x:Name="btnNew" Content="New" IsEnabled="{Binding BtnNew}" CommandParameter="new" Command="{Binding Model}" HorizontalAlignment="Left" Margin="18,354,0,0" VerticalAlignment="Top" Width="75" Height="19" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnSave" Content="Save" IsEnabled="{Binding BtnSave}" CommandParameter="save" Command="{Binding Model}" HorizontalAlignment="Left" Margin="110,354,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnDelete" Content="Delete" IsEnabled="{Binding BtnDelete}" CommandParameter="delete" Command="{Binding Model}" HorizontalAlignment="Left" Margin="204,354,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnCancel" Content="Cancel" IsEnabled="{Binding BtnCancel}" CommandParameter="cancel" Command="{Binding Model}" HorizontalAlignment="Left" Margin="298,354,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnUpdate" Content="Update" IsEnabled="{Binding BtnUpdate}" CommandParameter="update" Command="{Binding Model}" HorizontalAlignment="Left" Margin="397,354,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+    </Grid>
+</Controls:MetroWindow> 

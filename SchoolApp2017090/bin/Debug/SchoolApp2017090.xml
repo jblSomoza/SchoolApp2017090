@@ -1,0 +1,173 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SchoolApp2017090
+</name>
+</assembly>
+<members>
+<member name="T:SchoolApp2017090.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:SchoolApp2017090.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:SchoolApp2017090.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:SchoolApp2017090.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:SchoolApp2017090.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:SchoolApp2017090.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:SchoolApp2017090.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SchoolApp2017090.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SchoolApp2017090.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:SchoolApp2017090.CourseInstructorView">
+<summary>
+CourseInstructorView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.CourseInstructorView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.CourseView">
+<summary>
+CourseView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.CourseView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.DepartmentView">
+<summary>
+DepartmentView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.DepartmentView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.MenuPrincipalView">
+<summary>
+MenuPrincipalView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.MenuPrincipalView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.OfficeAssignmentView">
+<summary>
+OfficeAssignmentView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.OfficeAssignmentView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.OnlineCourseView">
+<summary>
+OnlineCourseView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.OnlineCourseView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.OnsiteCourseView">
+<summary>
+OnsiteCourseView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.OnsiteCourseView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.PersonView">
+<summary>
+PersonView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.PersonView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.StudentGradeView">
+<summary>
+StudentGradeView
+</summary>
+</member>
+<member name="M:SchoolApp2017090.StudentGradeView.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SchoolApp2017090.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:SchoolApp2017090.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:SchoolApp2017090.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:SchoolApp2017090.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:SchoolApp2017090.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

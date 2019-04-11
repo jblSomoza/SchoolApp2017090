@@ -1,0 +1,175 @@
+c:\users\laptop\documents\visual studio 2015\Projects\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe.config
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe.config
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\Application.g.vb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.cache
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.lref
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.xml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.pdb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.xml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.dll
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.dll
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.dll
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.pdb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.xml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.pdb
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.xml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.baml
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.g.resources
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.Resources.resources
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.exe
+C:\Users\Informatica\Documents\WPF INBM\Nueva carpeta\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.pdb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe.config
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.exe
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.xml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.pdb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.pdb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.xml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.dll
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.dll
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.dll
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.pdb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.xml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.pdb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.xml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\Application.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.cache
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.lref
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.g.resources
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.Resources.resources
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe.config
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.exe
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.xml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.pdb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.pdb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.xml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.dll
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.dll
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.dll
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.pdb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.xml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.pdb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.xml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\Application.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.cache
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.lref
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.g.resources
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.Resources.resources
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnlineCourseView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnlineCourseView.baml
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnsiteCourseView.g.vb
+C:\Users\Informatica\Documents\WPF INBM\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnsiteCourseView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnlineCourseView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnsiteCourseView.g.vb
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnlineCourseView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnsiteCourseView.baml
+C:\Users\bryan\Desktop\SchoolApp2017090\SchoolApp2017090\obj\Debug\Application.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe.config
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.exe
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.xml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.pdb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.exe
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.pdb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\SchoolApp2017090.xml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.dll
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.dll
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.dll
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\ControlzEx.pdb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.xml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.pdb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\bin\Debug\MahApps.Metro.xml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbprojResolveAssemblyReference.cache
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnlineCourseView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnsiteCourseView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\Application.g.vb
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.cache
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090_MarkupCompile.lref
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\Application.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\MainWindow.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseInstructorView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\CourseView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\DepartmentView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\MenuPrincipalView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OfficeAssignmentView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnlineCourseView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\OnsiteCourseView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\PersonView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\View\StudentGradeView.baml
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.g.resources
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.Resources.resources
+C:\Users\bryan\Documents\Microsoft Office\PE5DM\Informática\Taller\4ta Unidad\SchoolApp2017090\SchoolApp2017090\obj\Debug\SchoolApp2017090.vbproj.GenerateResource.Cache

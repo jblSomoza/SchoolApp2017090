@@ -1,0 +1,38 @@
+﻿<Controls:MetroWindow x:Class="OnlineCourseView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:SchoolApp2017090"
+        mc:Ignorable="d"
+        Title="OnlineCourseView" Height="385" Width="530">
+    <Grid>
+        <Label Content="Course ID" HorizontalAlignment="Left" Margin="13,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="URL" HorizontalAlignment="Left" Margin="13,65,0,0" VerticalAlignment="Top" />
+
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="363,22,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding ListCourse}" SelectedItem="{Binding Course}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding CourseID}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <TextBox x:Name="txtLocation" HorizontalAlignment="Left" Height="23" Margin="363,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding URL}"/>
+
+        <StackPanel HorizontalAlignment="Left" Margin="10,136,0,85" Width="503">
+            <DataGrid ColumnWidth="*" AutoGenerateColumns="False" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" ItemsSource="{Binding ListOnlineCourse}" SelectedItem="{Binding Element}" Height="134">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Course ID" Binding="{Binding CourseID}"/>
+                    <DataGridTextColumn Header="URL" Binding="{Binding URL}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <Button x:Name="btnNew" Content="New" IsEnabled="{Binding BtnNew}" CommandParameter="new" Command="{Binding Model}" HorizontalAlignment="Left" Margin="13,309,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnSave" Content="Save" IsEnabled="{Binding BtnSave}" CommandParameter="save" Command="{Binding Model}" HorizontalAlignment="Left" Margin="105,309,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnDelete" Content="Delete" IsEnabled="{Binding BtnDelete}" CommandParameter="delete" Command="{Binding Model}" HorizontalAlignment="Left" Margin="201,309,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnCancel" Content="Cancel" IsEnabled="{Binding BtnCancel}" CommandParameter="cancel" Command="{Binding Model}" HorizontalAlignment="Left" Margin="295,309,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnUpdate" Content="Update" IsEnabled="{Binding BtnUpdate}" CommandParameter="update" Command="{Binding Model}" HorizontalAlignment="Left" Margin="408,309,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+    </Grid>
+</Controls:MetroWindow>

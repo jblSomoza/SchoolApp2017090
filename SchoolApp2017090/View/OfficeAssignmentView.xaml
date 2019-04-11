@@ -1,0 +1,35 @@
+﻿<Controls:MetroWindow x:Class="OfficeAssignmentView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:SchoolApp2017090"
+        mc:Ignorable="d"
+        Title="OfficeAssignmentView" Height="400" Width="525">
+    <Grid>
+        <Label Content="Instructor ID" HorizontalAlignment="Left" Margin="13,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="Location" HorizontalAlignment="Left" Margin="14,49,0,0" VerticalAlignment="Top" />
+        <Label Content="Timestamp" HorizontalAlignment="Left" Margin="14,81,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtInstructorID" Text="{Binding InstructorID}" HorizontalAlignment="Left" Height="23" Margin="363,21,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtLocation" Text="{Binding Location}" HorizontalAlignment="Left" Height="23" Margin="363,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+        <DatePicker HorizontalAlignment="Left" SelectedDate="{Binding Timestamp}" Margin="363,83,0,0" VerticalAlignment="Top" Width="120"/>
+        
+        <StackPanel HorizontalAlignment="Left" Margin="10,134,0,87" Width="503">
+            <DataGrid ColumnWidth="*" AutoGenerateColumns="False" CanUserResizeColumns="false" CanUserResizeRows="False" ItemsSource="{Binding ListOfficeAssignment}" SelectedItem="{Binding Element}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Instructor ID" Binding="{Binding InstructorID}"/>
+                    <DataGridTextColumn Header="Location" Binding="{Binding Location}"/>
+                    <DataGridTextColumn Header="Timestamp" Binding="{Binding Timestamp}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <Button x:Name="btnNew" Content="New" IsEnabled="{Binding BtnNew}" Command="{Binding Model}" CommandParameter="new" HorizontalAlignment="Left" Margin="14,332,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnSave" Content="Save" IsEnabled="{Binding BtnSave}" Command="{Binding Model}" CommandParameter="save" HorizontalAlignment="Left" Margin="111,332,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnDelete" IsEnabled="{Binding BtnDelete}" Command="{Binding Model}" CommandParameter="delete" Content="Delete" HorizontalAlignment="Left" Margin="202,332,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnCancel" IsEnabled="{Binding BtnCancel}" Command="{Binding Model}" CommandParameter="cancel" Content="Cancel" HorizontalAlignment="Left" Margin="300,332,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnUpdate" IsEnabled="{Binding BtnUpdate}" Command="{Binding Model}" CommandParameter="update" Content="Update" HorizontalAlignment="Left" Margin="408,332,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+    </Grid>
+</Controls:MetroWindow> 

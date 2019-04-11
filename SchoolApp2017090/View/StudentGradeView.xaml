@@ -1,0 +1,48 @@
+﻿<Controls:MetroWindow x:Class="StudentGradeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SchoolApp2017090"
+        mc:Ignorable="d"
+        Title="StudentGradeView" Height="425" Width="525">
+    
+    <Grid>
+        <Label Content="Enrollment ID" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Course ID" HorizontalAlignment="Left" Margin="13,41,0,0" VerticalAlignment="Top" />
+        <Label Content="Student ID" HorizontalAlignment="Left" Margin="13,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Grade" HorizontalAlignment="Left" Margin="13,104,0,0" VerticalAlignment="Top"/>
+
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="363,41,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding ListCourse}" SelectedItem="{Binding Course}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding CourseID}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <TextBox x:Name="txtEnrollmentID" Text="{Binding EnrollmentID}" HorizontalAlignment="Left" Height="23" Margin="363,13,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtStudentID" Text="{Binding StudentID}" HorizontalAlignment="Left" Height="23" Margin="363,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGrade" Text="{Binding Grade}" HorizontalAlignment="Left" Height="23" Margin="363,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+        <StackPanel HorizontalAlignment="Left" Margin="10,175,0,46" Width="503">
+            <DataGrid ColumnWidth="*" AutoGenerateColumns="False" ItemsSource="{Binding ListStudentGrade}" SelectedItem="{Binding Element}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Enrollment ID" Binding="{Binding EnrollmentID}"/>
+                    <DataGridTextColumn Header="Course ID" Binding="{Binding CourseID}"/>
+                    <DataGridTextColumn Header="Student ID" Binding="{Binding StudentID}"/>
+                    <DataGridTextColumn Header="Grade" Binding="{Binding Grade}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+        <Button x:Name="btnNew" Content="New" IsEnabled="{Binding BtnNew}" CommandParameter="new" Command="{Binding Model}" HorizontalAlignment="Left" Margin="10,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnSave" Content="Save" IsEnabled="{Binding BtnSave}" CommandParameter="save" Command="{Binding Model}" HorizontalAlignment="Left" Margin="106,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnDelete" Content="Delete" IsEnabled="{Binding BtnDelete}" CommandParameter="delete" Command="{Binding Model}" HorizontalAlignment="Left" Margin="200,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnCancel" Content="Cancel" IsEnabled="{Binding BtnCancel}" CommandParameter="cancel" Command="{Binding Model}" HorizontalAlignment="Left" Margin="298,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnUpdate" Content="Update" IsEnabled="{Binding BtnUpdate}" CommandParameter="update" Command="{Binding Model}" HorizontalAlignment="Left" Margin="400,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+    </Grid>
+    
+    
+</Controls:MetroWindow>

@@ -1,0 +1,40 @@
+﻿<Controls:MetroWindow x:Class="PersonView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:SchoolApp2017090"
+        mc:Ignorable="d"
+        Title="PersonView" Height="425" Width="530">
+    <Grid>
+        <Label Content="Person ID" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Last Name" HorizontalAlignment="Left" Margin="13,41,0,0" VerticalAlignment="Top" />
+        <Label Content="First Name" HorizontalAlignment="Left" Margin="13,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="HireDate" HorizontalAlignment="Left" Margin="13,104,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enrollment Date" HorizontalAlignment="Left" Margin="13,135,0,0" VerticalAlignment="Top"/>
+        
+        <TextBox x:Name="txtPersonID" Text="{Binding PersonID}" HorizontalAlignment="Left" Height="23" Margin="363,13,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtLastName" Text="{Binding LastName}" HorizontalAlignment="Left" Height="23" Margin="363,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtFirstName" Text="{Binding FirstName}" HorizontalAlignment="Left" Height="23" Margin="363,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker HorizontalAlignment="Left" SelectedDate="{Binding HireDate}"  Margin="363,106,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker HorizontalAlignment="Left" SelectedDate="{Binding EnrollmentDate}" Margin="363,137,0,0" VerticalAlignment="Top" Width="120"/>
+        
+        <StackPanel HorizontalAlignment="Left" Margin="10,175,0,46" Width="503">
+            <DataGrid AutoGenerateColumns="False" ColumnWidth="*" CanUserResizeColumns="false" CanUserResizeRows="False" ItemsSource="{Binding ListPerson}" SelectedItem="{Binding Element}" Style="{StaticResource AzureDataGrid}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Person ID" Width="100" Binding="{Binding PersonID}"/>
+                    <DataGridTextColumn Header="Last Name" Width="100" Binding="{Binding LastName}"/>
+                    <DataGridTextColumn Header="First Name" Width="100" Binding="{Binding FirstName}"/>
+                    <DataGridTextColumn Header="Hire Date" Width="100" Binding="{Binding HireDate}"/>
+                    <DataGridTextColumn Header="Enrollment Date" Width="100" Binding="{Binding EnrollmentDate}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <Button x:Name="btnNew" Content="New" IsEnabled="{Binding BtnNew}" Command="{Binding Model}" CommandParameter="new" HorizontalAlignment="Left" Margin="10,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnSave" Content="Save" IsEnabled="{Binding BtnSave}" Command="{Binding Model}" CommandParameter="save" HorizontalAlignment="Left" Margin="106,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnDelete" Content="Delete" IsEnabled="{Binding BtnDelete}" Command="{Binding Model}" CommandParameter="delete" HorizontalAlignment="Left" Margin="200,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnCancel" Content="Cancel" IsEnabled="{Binding BtnCancel}" Command="{Binding Model}" CommandParameter="cancel" HorizontalAlignment="Left" Margin="298,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+        <Button x:Name="btnUpdate" Content="Update" IsEnabled="{Binding BtnUpdate}" Command="{Binding Model}" CommandParameter="update" HorizontalAlignment="Left" Margin="400,361,0,0" VerticalAlignment="Top" Width="75" Style="{StaticResource AccentedSquareButtonStyle}"/>
+    </Grid>
+</Controls:MetroWindow> 
